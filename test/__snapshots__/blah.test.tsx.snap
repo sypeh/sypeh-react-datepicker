@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SyButton renders basic wrapper correctly 1`] = `
+<button
+  className="btn btn-primary"
+  onClick={[Function]}
+  type="button"
+/>
+`;

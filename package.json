@@ -4,6 +4,10 @@
   "main": "./dist/index.js",
   "author": "sypeh",
   "license": "MIT",
+  "files": [
+    "dist",
+    "src"
+  ],
   "prettier": {
     "singleQuote": true,
     "semi": false
